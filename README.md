@@ -17,7 +17,7 @@
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="nazmulrony" target="_blank" height=25px, width=250px/> 
 	</a>
 
-</p> --> -->
+</p> --> 
 
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
